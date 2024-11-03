@@ -3,6 +3,7 @@ Skin_Cancer_Detection_using_ResNet50
 This project aims to create a skin cancer detection model utilizing Convolutional Neural Networks (CNN). By harnessing the capabilities of TensorFlow and Keras, a skin cancer detection system was developed based on the ResNet-50 architecture. The model successfully achieved a commendable accuracy of 90.3% in differentiating skin lesions as either benign or malignant.
 
 Description
+
 Skin cancer is a widespread and potentially life-threatening condition. Timely detection is critical for improving patient outcomes. This project seeks to fulfill the demand for an automated skin cancer detection solution using advanced deep learning techniques.
 
 Key features of this project include:
@@ -40,6 +41,7 @@ Applying the trained model to classify skin lesions in new, unseen images.
 Producing predictions along with associated probabilities that indicate the likelihood of malignancy.
 
 Results
+
 The skin cancer classification model attained a notable accuracy of 90.3% on the validation set and 89.09% on the test set, successfully identifying malignant skin lesions in images. This accuracy level underscores the capability of deep learning models to assist dermatologists and healthcare practitioners in the diagnosis of skin cancer.
 
 
